@@ -1,6 +1,3 @@
-# cell_to_sentence_cell_type_pred
-cell_to_sentence(c2s) cell_type_prediction
-
 # AI Researches in Cancer Treatment using LLMs
 *by Moses Wai‑Ming Wong | 4 min read*  
 
