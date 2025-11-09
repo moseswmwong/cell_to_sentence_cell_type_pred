@@ -1,10 +1,7 @@
 # cell_to_sentence_cell_type_pred
 cell_to_sentence(c2s) cell_type_prediction
 
-from pathlib import Path
-
-# Define the markdown content
-md_content = """# AI Researches in Cancer Treatment using LLMs
+# AI Researches in Cancer Treatment using LLMs
 *by Moses Wai‑Ming Wong | 4 min read*  
 
 As a data scientist, I am fascinated by how AI can accelerate cancer research and treatment. Cancer remains one of humanity’s most complex and devastating diseases, affecting millions each year and burdening both healthcare systems and families. Despite decades of progress, many cancers still evade cure because of their ability to mutate, resist therapy, and vary across individuals.
