@@ -51,11 +51,4 @@ Using a single NVIDIA A100 GPU, I fine‑tuned multiple models in under an hour,
 This work highlights how open‑source LLMs and biological data modeling can bring powerful cancer research capabilities to a wider audience. By treating genes as language, scientists can leverage the same breakthroughs that revolutionized natural language understanding to decode the language of life itself. The results show that AI can meaningfully interpret cellular data, assist in diagnosis, and ultimately accelerate the discovery of personalized cancer therapies.
 """
 
-# Define the output path
-output_path = Path("/mnt/data/AI_Researches_in_Cancer_Treatment_using_LLMs.md")
 
-# Write markdown to file
-output_path.write_text(md_content, encoding="utf-8")
-
-# Return path for download
-output_path
